@@ -6,25 +6,30 @@
    ![3](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/1ad7a128-0348-4e13-b32f-2ba970ad154a)
 
    计算结果如下：
+   
    ![statistic_day_0](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/8ce5fee2-7409-4243-a427-f4e6796cabf4)
    ![statistic_day](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/f5403466-8a64-4546-86fc-3dc7808153b2)
 
 
    
-2. D和U根据市场的波动程度进行动态调整。
+3. D和U根据市场的波动程度进行动态调整。
 ![2](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/1938e341-444a-4615-889f-c8272a0a3d1c)
 
    计算结果如下：
+   
 ![ATR](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/ce1c4668-a6f1-4abf-9ccc-9d199d4e3a47)
 ![DU](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/bcca10ef-fd61-475a-a43c-3e13bc653114)
 
 
    
-3. 计算信号日当天各股的反弹动量。
+5. 计算信号日当天各股的反弹动量。
 ![1](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/fb954e68-244e-4333-8d71-73430516b003)
 
    
-4. 根据反弹动量数值关系完成投资。
+6. 根据反弹动量数值关系完成投资。
 ![4](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/125389f7-6560-4c0d-be1c-0eab0f8a5340)
+
+   计算结果如下：
+   
 ![earned_money](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/e70f50a3-3eef-4727-b542-408abc870bc5)
 
