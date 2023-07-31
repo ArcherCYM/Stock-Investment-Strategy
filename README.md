@@ -31,5 +31,4 @@
 
    计算结果如下：
    
-![earned_money](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/e70f50a3-3eef-4727-b542-408abc870bc5)
-
+![earned_money](https://github.com/ArcherCYM/Stock-Investment-Strategy/assets/49087999/6958b061-ca24-4805-91f2-83ee7cc6aab3)
